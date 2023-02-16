@@ -1,0 +1,7 @@
+BELAJAR GITHUB
+1. pull
+2. push
+3. commit
+4. branch
+5. merge
+6. hash
