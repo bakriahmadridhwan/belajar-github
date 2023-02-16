@@ -5,5 +5,6 @@ BELAJAR GITHUB
 4. branch
 5. merge
 6. hash
-7. clone
+
 8. fork
+9. share repo
